@@ -5,7 +5,11 @@ course from: https://frontendmasters.com/courses/webgl-shaders
 
 # Run
 `npm install`
+
 `npm run dev`
+
+----
+new a template
 
 - npx canvas-sketch sketch.js --new --template=three
 - read this please ;) notes are taken in this link
