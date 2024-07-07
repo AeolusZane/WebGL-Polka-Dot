@@ -1,0 +1,23 @@
+{
+  "name": "webgl",
+  "version": "1.0.0",
+  "description": "- canvas-sketch sketch.js --new --template=three",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "new": "canvas-sketch shader.js --new --template=three",
+    "dev": "canvas-sketch shader.js --open --hot --port=9966",
+    "export":"canvas-sketch shader.js --stream=gif"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas-sketch": "^0.7.7",
+    "canvas-sketch-cli": "^1.11.21",
+    "canvas-sketch-util": "^1.10.0",
+    "glsl-aastep": "^1.0.1",
+    "glsl-noise": "^0.0.0",
+    "three": "^0.147.0"
+  }
+}
