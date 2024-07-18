@@ -1,8 +1,6 @@
 # WebGL Demo
 ![](./res.gif)
 
-course from: https://frontendmasters.com/courses/webgl-shaders
-
 # Run
 `npm install`
 
